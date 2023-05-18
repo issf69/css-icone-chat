@@ -56,7 +56,7 @@ Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abai
 
 🎥 [👀 Assistir o vídeo Keyframes-CSS](https://youtu.be/awbGZqPxuis)
 
-🎥 [👀Assistir o vídeo Desenvolvendo um Menu Hamburguer  com CSS Transitions](https://youtu.be/zrfSmAmAQW8)
+🎥 [👀Assistir o vídeo Desenvolvendo um Menu  com CSS Transitions](https://youtu.be/zrfSmAmAQW8)
 
 🎥 [👀Assistir o vídeo do Projeto CSS Transitions](https://www.youtube.com/watch?v=TnGlAPn7J_8)
 
